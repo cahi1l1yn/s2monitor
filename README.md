@@ -1,5 +1,5 @@
 # s2monitor
-专用于监控Structs2漏洞的小脚本
+用于监控Structs2漏洞的小脚本
 
 --Struts2 VulnMonitor--
 Created on 2017-9-8
