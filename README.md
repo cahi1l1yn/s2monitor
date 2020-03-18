@@ -1,11 +1,11 @@
-# s2monitor
-用于监控Structs2漏洞的小脚本
+# s2monitor  
+用于监控Structs2漏洞的小脚本  
 
---Struts2 VulnMonitor--
-Created on 2017-9-8
-Update on 2017-11-21
-Author: cahi1l1yn
-Version:1.2
+--Struts2 VulnMonitor--  
+Created on 2017-9-8  
+Update on 2017-11-21  
+Author: cahi1l1yn  
+Version:1.2  
 
 说明：
 1.利用爬虫定时从Apache Struts2官方安全通告发布页面获取最新漏洞情况，一旦发现新漏洞，立即调用阿里云短信接口向管理员发送短信通知。  
