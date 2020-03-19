@@ -7,7 +7,7 @@ Update on 2017-11-21
 Author: cahi1l1yn  
 Version:1.2  
 
-说明：
+
 1.利用爬虫定时从Apache Struts2官方安全通告发布页面获取最新漏洞情况，一旦发现新漏洞，立即调用阿里云短信接口向管理员发送短信通知。  
 2.需安装lib.zip中的两个阿里云短信接口python库。  
 3.需安装fake_UserAgent库。  
